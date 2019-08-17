@@ -1,0 +1,9 @@
+Within the data from Heroes of Pymoli, the following three trends were observed:
+
+1. Although there is only a small percentage of women players, they have a higher average purchase total than men.
+
+2. The most popular items were not the most popular because they were the cheapest. 
+
+3. Majority of the players were adults, but kids, who only accounted for about 6% of the player, had the highest average purchase total per person. 
+
+
